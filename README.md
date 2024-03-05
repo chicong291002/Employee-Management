@@ -14,7 +14,7 @@
 
 ## How to run the Project
 To begin, clone the code from GitHub by using the command: 
-git clone https://github.com/chicong291002/SmartPhoneStore
+git clone https://github.com/chicong291002/employee_management
 
 Before initiating the project, ensure that XAMPP is turned on and create a database named `smartphonedb`, then import my database https://github.com/chicong291002/employee_management/tree/main/DATABASE
 Next, turn on IntelliJ and open the project just cloned and opened that project. Click on "m" (maven) as indicated in the provided image:
