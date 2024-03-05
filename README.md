@@ -22,6 +22,6 @@ Next, turn on IntelliJ and open the project just cloned and opened that project.
 ![image](https://github.com/chicong291002/employee_management/assets/87140308/864e462c-616a-4d6a-b1a1-fa9928f60fed)
 
 
-After that, click on "install" and wait for the process to be successful, then proceed to click on "compile" and wait for success.
+After that, click on "install" and wait for the process to be successful, then proceed to click on "compile" and wait for success,
 then enter application.properties and set localhost:3306 to your computer's localhost (for example 3307)
 Finally, click on "PhoneStoreApplication" and press Run.
