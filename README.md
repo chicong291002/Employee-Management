@@ -1,4 +1,4 @@
-![image](https://github.com/chicong291002/employee_management/assets/87140308/45f1e837-5eda-404f-a123-dbbf77d510fb)# Augular 17 + Spring Boot Server
+# Augular 17 + Spring Boot Server
 # Frontend-side:
 + Augular 17
 + TypeScript
